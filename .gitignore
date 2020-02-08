@@ -1,4 +1,4 @@
-*.img
-*.lst
+dst/*.img
+log/*.lst
 */**/*.swp
 
